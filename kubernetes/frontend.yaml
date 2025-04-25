@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: zhddoc/wanderlust-frontend-beta:v2.1
+          image: zhddoc/wanderlust-frontend-beta:v2.4
           ports:
             - containerPort: 5173
 ---
